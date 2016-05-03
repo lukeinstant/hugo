@@ -1,0 +1,161 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTWalsheimProMedium-Oblique
+FamilyName:GT Walsheim Pro
+StyleName:Medium Oblique
+MenuName:GTWalsheimProMedium-Oblique
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:GTWalsheimProMedium-Oblique
+WritingScript:Roman
+OutlineFileName:\gt-walsheim-medium-oblique.ttf
+DataFormat:sfntData
+FileLength:335656
+FileModTime:1447772244
+NameArray:0,Mac,4,GTWalsheimProMedium-Oblique
+NameArray:0,Win,1,GTWalsheimProMedium-Oblique
+NameArray:0,Win,16,GT Walsheim Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTWalsheimProMedium
+FamilyName:GT Walsheim Pro
+StyleName:Medium
+MenuName:GTWalsheimProMedium
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:GTWalsheimProMedium
+WritingScript:Roman
+OutlineFileName:\gt-walsheim-medium.ttf
+DataFormat:sfntData
+FileLength:328252
+FileModTime:1447772278
+NameArray:0,Mac,4,GTWalsheimProMedium
+NameArray:0,Win,1,GTWalsheimProMedium
+NameArray:0,Win,16,GT Walsheim Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTWalsheimProRegular-Oblique
+FamilyName:GT Walsheim Pro
+StyleName:Regular Oblique
+MenuName:GTWalsheimProRegular-Oblique
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:GTWalsheimProRegular-Oblique
+WritingScript:Roman
+OutlineFileName:\gt-walsheim-regular-oblique.ttf
+DataFormat:sfntData
+FileLength:362780
+FileModTime:1447772322
+NameArray:0,Mac,4,GTWalsheimProRegular-Oblique
+NameArray:0,Win,1,GTWalsheimProRegular-Oblique
+NameArray:0,Win,16,GT Walsheim Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTWalsheimProRegular
+FamilyName:GT Walsheim Pro
+StyleName:Regular
+MenuName:GTWalsheimProRegular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GTWalsheimProRegular
+WritingScript:Roman
+OutlineFileName:\gt-walsheim-regular.ttf
+DataFormat:sfntData
+FileLength:358940
+FileModTime:1447772336
+NameArray:0,Mac,4,GTWalsheimProRegular
+NameArray:0,Win,1,GTWalsheimProRegular
+NameArray:0,Win,16,GT Walsheim Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1450332575
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SocialicoPlus
+FamilyName:Socialico Plus
+StyleName:Regular
+MenuName:Socialico Plus
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Socialico Plus
+WritingScript:Roman
+OutlineFileName:\Socialico Plus.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:16720
+FileModTime:1391169402
+NameArray:0,Mac,4,Socialico Plus
+NameArray:0,Win,1,Socialico Plus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Socialico
+FamilyName:Socialico
+StyleName:Regular
+MenuName:Socialico
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Socialico
+WritingScript:Roman
+OutlineFileName:\Socialico.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:15512
+FileModTime:1339084302
+NameArray:0,Mac,4,Socialico
+NameArray:0,Win,1,Socialico
+%EndFont
+
